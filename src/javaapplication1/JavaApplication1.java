@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author 18400
+ * @author 18400 Ol
  */
 public class JavaApplication1 {
 
